@@ -12,7 +12,7 @@ Job Track is a Chrome extension designed to automatically detect and track job l
 
 ## Installation
 1.   Clone the repository:
-     bash git clone https://github.com/0xlumos/job-tracker-extension.git
+     bash git clone https://github.com/0xlumos/JobTrack.git
 2.   Open Chrome and navigate to chrome://extensions.
 3.   Enable Developer Mode.
 4.   Click "Load unpacked" and select the extension folder.
